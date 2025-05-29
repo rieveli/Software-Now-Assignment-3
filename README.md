@@ -78,7 +78,7 @@ python main.py
 - Scoring system, player health, and lives
 - Game Over screen with restart option
 
-### 🕹️ Controls
+### 🕹️ Controls //
 | Key         | Action         |
 |-------------|----------------|
 | `D`         | Move Right     |
